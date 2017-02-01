@@ -11,6 +11,8 @@ Contents of Solution Package:
 						
 								*PCK.CUSTOM_MONGODB_1.0.0.zip
 								
+								*MongoDB-Logo.png
+								
 								*actions1.JPG
 								
 								*actions2.JPG
